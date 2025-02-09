@@ -14,3 +14,4 @@ State is used to manage internal data within components:
 In the Game component, history and currentMove are state variables that track the game history and the current move.
 In the Board component, the state of the individual squares (the board's layout) is passed down from the Game component as props.
 
+Hosted LINK :: https://tic-tac-toe-flax-psi-81.vercel.app/
